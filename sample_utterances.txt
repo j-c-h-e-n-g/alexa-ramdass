@@ -1,0 +1,3 @@
+RamDassTime what time is it
+RamDassLocation where am i
+RamDassWDID what do i do
